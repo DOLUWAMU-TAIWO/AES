@@ -8,7 +8,7 @@ Utilizing the Nexys A7 100T FPGA board and the MicroBlaze soft processor, this p
 
 ## Project Objectives
 
-- **Implement AES Algorithm**: Develop and integrate the AES encryption and decryption algorithm using VHDL or Verilog on the Nexys A7 FPGA.
+- **Implement AES Algorithm**: Develop and integrate the AES encryption and decryption algorithm using VHDL or Verilog or utilizing IPs on the Nexys A7 FPGA.
 - **MicroBlaze Processor Utilization**: Leverage the MicroBlaze soft processor for controlling the encryption/decryption processes and managing data flow.
 - **User Interaction Interface**: Create a simple interface for inputting messages to be encrypted or decrypted, using switches, buttons, or a UART connection.
 - **Demonstration of Secure Communication**: Illustrate the system's capability by securely transmitting encrypted messages, potentially to a server or between two systems.
